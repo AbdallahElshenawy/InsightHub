@@ -1,0 +1,6 @@
+@InsightHub_HostAddress = http://localhost:5277
+
+GET {{InsightHub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

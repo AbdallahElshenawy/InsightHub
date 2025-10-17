@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\InsightHub\\API\\InsightHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|e:\\insighthub\\api\\insighthub\\insighthub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|solutionrelative:insighthub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|e:\\insighthub\\api\\insighthub\\insighthub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|solutionrelative:insighthub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\InsightHub\\API\\InsightHub\\InsightHub\\Migrations\\20251017130901_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InsightHub\\Migrations\\20251017130901_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|e:\\insighthub\\api\\insighthub\\insighthub\\models\\blogimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|solutionrelative:insighthub\\models\\blogimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|e:\\insighthub\\api\\insighthub\\insighthub\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|solutionrelative:insighthub\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|e:\\insighthub\\api\\insighthub\\insighthub\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|solutionrelative:insighthub\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|e:\\insighthub\\api\\insighthub\\insighthub\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|solutionrelative:insighthub\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251017130901_Initial.cs",
+              "DocumentMoniker": "E:\\InsightHub\\API\\InsightHub\\InsightHub\\Migrations\\20251017130901_Initial.cs",
+              "RelativeDocumentMoniker": "InsightHub\\Migrations\\20251017130901_Initial.cs",
+              "ToolTip": "E:\\InsightHub\\API\\InsightHub\\InsightHub\\Migrations\\20251017130901_Initial.cs",
+              "RelativeToolTip": "InsightHub\\Migrations\\20251017130901_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T13:09:02.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\InsightHub\\API\\InsightHub\\InsightHub\\Program.cs",
+              "RelativeDocumentMoniker": "InsightHub\\Program.cs",
+              "ToolTip": "E:\\InsightHub\\API\\InsightHub\\InsightHub\\Program.cs \u2B24",
+              "RelativeToolTip": "InsightHub\\Program.cs \u2B24",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T13:04:56.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\InsightHub\\API\\InsightHub\\InsightHub\\appsettings.json",
+              "RelativeDocumentMoniker": "InsightHub\\appsettings.json",
+              "ToolTip": "E:\\InsightHub\\API\\InsightHub\\InsightHub\\appsettings.json",
+              "RelativeToolTip": "InsightHub\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T13:00:00.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogImage.cs",
+              "DocumentMoniker": "E:\\InsightHub\\API\\InsightHub\\InsightHub\\Models\\BlogImage.cs",
+              "RelativeDocumentMoniker": "InsightHub\\Models\\BlogImage.cs",
+              "ToolTip": "E:\\InsightHub\\API\\InsightHub\\InsightHub\\Models\\BlogImage.cs",
+              "RelativeToolTip": "InsightHub\\Models\\BlogImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:57:03.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\InsightHub\\API\\InsightHub\\InsightHub\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "InsightHub\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\InsightHub\\API\\InsightHub\\InsightHub\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "InsightHub\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:56:12.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\InsightHub\\API\\InsightHub\\InsightHub\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "InsightHub\\Models\\Category.cs",
+              "ToolTip": "E:\\InsightHub\\API\\InsightHub\\InsightHub\\Models\\Category.cs",
+              "RelativeToolTip": "InsightHub\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:48:24.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "E:\\InsightHub\\API\\InsightHub\\InsightHub\\Models\\BlogPost.cs",
+              "RelativeDocumentMoniker": "InsightHub\\Models\\BlogPost.cs",
+              "ToolTip": "E:\\InsightHub\\API\\InsightHub\\InsightHub\\Models\\BlogPost.cs",
+              "RelativeToolTip": "InsightHub\\Models\\BlogPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:47:47.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
