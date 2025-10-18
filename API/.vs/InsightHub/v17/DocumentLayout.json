@@ -11,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|solutionrelative:insighthub\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|e:\\insighthub\\insighthub\\api\\insighthub\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|solutionrelative:insighthub\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|e:\\insighthub\\insighthub\\api\\insighthub\\dtos\\updatecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|solutionrelative:insighthub\\dtos\\updatecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|e:\\insighthub\\insighthub\\api\\insighthub\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|solutionrelative:insighthub\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|e:\\insighthub\\insighthub\\api\\insighthub\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|solutionrelative:insighthub\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|e:\\insighthub\\insighthub\\api\\insighthub\\dtos\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,12 +75,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "UpdateCategoryRequestDto.cs",
+              "DocumentMoniker": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Dtos\\UpdateCategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "InsightHub\\Dtos\\UpdateCategoryRequestDto.cs",
+              "ToolTip": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Dtos\\UpdateCategoryRequestDto.cs",
+              "RelativeToolTip": "InsightHub\\Dtos\\UpdateCategoryRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T20:42:07.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Repositories\\Implementation\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "InsightHub\\Repositories\\Implementation\\CategoryRepository.cs",
               "ToolTip": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Repositories\\Implementation\\CategoryRepository.cs",
               "RelativeToolTip": "InsightHub\\Repositories\\Implementation\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwCQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T23:29:37.795Z",
               "EditorCaption": ""
@@ -89,22 +106,9 @@
               "RelativeDocumentMoniker": "InsightHub\\Repositories\\Interface\\ICategoryRepository.cs",
               "ToolTip": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Repositories\\Interface\\ICategoryRepository.cs",
               "RelativeToolTip": "InsightHub\\Repositories\\Interface\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T23:29:01.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateCategoryRequestDto.cs",
-              "DocumentMoniker": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Dtos\\CreateCategoryRequestDto.cs",
-              "RelativeDocumentMoniker": "InsightHub\\Dtos\\CreateCategoryRequestDto.cs",
-              "ToolTip": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Dtos\\CreateCategoryRequestDto.cs",
-              "RelativeToolTip": "InsightHub\\Dtos\\CreateCategoryRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T23:27:13.005Z",
               "EditorCaption": ""
             },
             {
@@ -115,14 +119,14 @@
               "RelativeDocumentMoniker": "InsightHub\\Program.cs",
               "ToolTip": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Program.cs",
               "RelativeToolTip": "InsightHub\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwCIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T13:04:56.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CategoryResponseDto.cs",
               "DocumentMoniker": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Dtos\\CategoryResponseDto.cs",
               "RelativeDocumentMoniker": "InsightHub\\Dtos\\CategoryResponseDto.cs",
@@ -130,8 +134,7 @@
               "RelativeToolTip": "InsightHub\\Dtos\\CategoryResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T23:26:36.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T23:26:36.5Z"
             },
             {
               "$type": "Document",
@@ -141,14 +144,26 @@
               "RelativeDocumentMoniker": "InsightHub\\Controllers\\CategoriesController.cs",
               "ToolTip": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "InsightHub\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T19:31:47.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
+              "Title": "CreateCategoryRequestDto.cs",
+              "DocumentMoniker": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Dtos\\CreateCategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "InsightHub\\Dtos\\CreateCategoryRequestDto.cs",
+              "ToolTip": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Dtos\\CreateCategoryRequestDto.cs",
+              "RelativeToolTip": "InsightHub\\Dtos\\CreateCategoryRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T23:27:13.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\appsettings.json",
               "RelativeDocumentMoniker": "InsightHub\\appsettings.json",
@@ -160,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "BlogImage.cs",
               "DocumentMoniker": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Models\\BlogImage.cs",
               "RelativeDocumentMoniker": "InsightHub\\Models\\BlogImage.cs",
@@ -172,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "BlogPost.cs",
               "DocumentMoniker": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Models\\BlogPost.cs",
               "RelativeDocumentMoniker": "InsightHub\\Models\\BlogPost.cs",
@@ -184,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Category.cs",
               "DocumentMoniker": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Models\\Category.cs",
               "RelativeDocumentMoniker": "InsightHub\\Models\\Category.cs",
@@ -196,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "InsightHub\\Data\\ApplicationDbContext.cs",
@@ -204,12 +219,11 @@
               "RelativeToolTip": "InsightHub\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T12:56:12.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T12:56:12.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "20251017130901_Initial.cs",
               "DocumentMoniker": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Migrations\\20251017130901_Initial.cs",
               "RelativeDocumentMoniker": "InsightHub\\Migrations\\20251017130901_Initial.cs",
