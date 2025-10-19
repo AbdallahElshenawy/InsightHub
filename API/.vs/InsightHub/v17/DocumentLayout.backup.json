@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\InsightHub\\InsightHub\\API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|e:\\insighthub\\insighthub\\api\\insighthub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|solutionrelative:insighthub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|e:\\insighthub\\insighthub\\api\\insighthub\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|solutionrelative:insighthub\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|e:\\insighthub\\insighthub\\api\\insighthub\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|solutionrelative:insighthub\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|e:\\insighthub\\insighthub\\api\\insighthub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|solutionrelative:insighthub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAFF474F-D531-4516-8BC7-830443E4983A}|InsightHub\\InsightHub.csproj|e:\\insighthub\\insighthub\\api\\insighthub\\dtos\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UpdateCategoryRequestDto.cs",
               "DocumentMoniker": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Dtos\\UpdateCategoryRequestDto.cs",
               "RelativeDocumentMoniker": "InsightHub\\Dtos\\UpdateCategoryRequestDto.cs",
@@ -82,12 +82,11 @@
               "RelativeToolTip": "InsightHub\\Dtos\\UpdateCategoryRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T20:42:07.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T20:42:07.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Repositories\\Implementation\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "InsightHub\\Repositories\\Implementation\\CategoryRepository.cs",
@@ -95,12 +94,11 @@
               "RelativeToolTip": "InsightHub\\Repositories\\Implementation\\CategoryRepository.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAIwCQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T23:29:37.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T23:29:37.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Repositories\\Interface\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "InsightHub\\Repositories\\Interface\\ICategoryRepository.cs",
@@ -108,18 +106,17 @@
               "RelativeToolTip": "InsightHub\\Repositories\\Interface\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T23:29:01.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T23:29:01.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Program.cs",
               "RelativeDocumentMoniker": "InsightHub\\Program.cs",
               "ToolTip": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Program.cs",
               "RelativeToolTip": "InsightHub\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwCIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T13:04:56.465Z",
               "EditorCaption": ""
@@ -138,16 +135,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "InsightHub\\Controllers\\CategoriesController.cs",
-              "ToolTip": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Controllers\\CategoriesController.cs \u2B24",
-              "RelativeToolTip": "InsightHub\\Controllers\\CategoriesController.cs \u2B24",
+              "ToolTip": "E:\\InsightHub\\InsightHub\\API\\InsightHub\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "InsightHub\\Controllers\\CategoriesController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T19:31:47.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T19:31:47.374Z"
             },
             {
               "$type": "Document",
