@@ -1,4 +1,4 @@
-﻿using InsightHub.Dtos;
+﻿using InsightHub.Dtos.Category;
 using InsightHub.Models;
 using InsightHub.Repositories.Interface;
 using Microsoft.AspNetCore.Mvc;

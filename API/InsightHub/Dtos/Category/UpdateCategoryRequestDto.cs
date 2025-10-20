@@ -1,4 +1,4 @@
-﻿namespace InsightHub.Dtos
+﻿namespace InsightHub.Dtos.Category
 {
     public class UpdateCategoryRequestDto
     {
