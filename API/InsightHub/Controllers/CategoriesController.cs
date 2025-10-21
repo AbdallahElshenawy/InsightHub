@@ -1,6 +1,7 @@
 ﻿using InsightHub.Dtos.Category;
 using InsightHub.Models;
 using InsightHub.Repositories.Interface;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace InsightHub.Controllers
@@ -10,6 +11,7 @@ namespace InsightHub.Controllers
     public class CategoriesController(ICategoryRepository categoryRepository) : ControllerBase
     {
         [HttpPost]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> CreateCategory(CategoryRequestDto requestDto)
         {
             var category = new Category
@@ -76,6 +78,7 @@ namespace InsightHub.Controllers
         }
 
         [HttpPut("{id:Guid}")]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> EditCategory([FromRoute] Guid id, UpdateCategoryRequestDto request)
         {
             var category = new Category
@@ -104,6 +107,7 @@ namespace InsightHub.Controllers
 
 
         [HttpDelete("{id:Guid}")]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> DeleteCategory([FromRoute] Guid id)
         {
             var category = await categoryRepository.DeleteAsync(id);
@@ -126,7 +130,7 @@ namespace InsightHub.Controllers
 
         [HttpGet]
         [Route("count")]
-        public async Task<IActionResult> GetCategoriesTotal()
+        public async Task<IActionResult> GetTotalCategories()
         {
             var count = await categoryRepository.GetCount();
 

@@ -25,7 +25,6 @@ export class BlogDetailsComponent implements OnInit {
       }
     });
 
-    // Fetch blog details by url
     if (this.url) {
       this.blogPost$ = this.blogPostService.getBlogPostByUrlHandle(this.url);
     }

@@ -2,6 +2,7 @@
 using InsightHub.Dtos.Category;
 using InsightHub.Models;
 using InsightHub.Repositories.Interface;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace InsightHub.Controllers
@@ -12,6 +13,7 @@ namespace InsightHub.Controllers
         ICategoryRepository categoryRepository) : ControllerBase
     {
         [HttpPost]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> CreateBlogPost([FromBody] CreateBlogPostDto request)
         {
             var blogPost = new BlogPost
@@ -160,6 +162,7 @@ namespace InsightHub.Controllers
         }
 
         [HttpPut("{id:Guid}")]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> UpdateBlogPostById([FromRoute] Guid id, UpdateBlogPostDto request)
         {
             var blogPost = new BlogPost
@@ -217,6 +220,7 @@ namespace InsightHub.Controllers
         }
 
         [HttpDelete("{id:Guid}")]
+        [Authorize(Roles = "Writer")]
         public async Task<IActionResult> DeleteBlogPost([FromRoute] Guid id)
         {
             var deletedBlogPost = await blogPostRepository.DeleteAsync(id);
