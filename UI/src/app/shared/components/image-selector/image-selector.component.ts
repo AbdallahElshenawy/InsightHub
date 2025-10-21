@@ -31,7 +31,6 @@ export class ImageSelectorComponent implements OnInit {
 
   uploadImage(): void {
     if (this.file && this.fileName !== '' && this.title !== '') {
-      // Image service to upload the image
       this.imageService.uploadImage(this.file, this.fileName, this.title)
       .subscribe({
         next: (response) => {

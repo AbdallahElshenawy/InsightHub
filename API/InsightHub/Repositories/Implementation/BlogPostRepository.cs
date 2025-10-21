@@ -53,7 +53,7 @@ namespace InsightHub.Repositories.Implementation
                 return null;
             }
 
-            // Update BlogPost
+            // Update BlogPost 
             dbContext.Entry(existingBlogPost).CurrentValues.SetValues(blogPost);
 
             existingBlogPost.Categories = blogPost.Categories;

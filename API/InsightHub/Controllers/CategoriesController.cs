@@ -35,8 +35,8 @@ namespace InsightHub.Controllers
            [FromQuery] string? query,
            [FromQuery] string? sortBy,
            [FromQuery] string? sortDirection,
-           [FromQuery] int pageNumber,
-           [FromQuery] int pageSize)
+           [FromQuery] int pageNumber = 1,
+           [FromQuery] int pageSize = 10)
         {
             var caterogies = await categoryRepository
                 .GetAllAsync(query, sortBy, sortDirection, pageNumber, pageSize);
